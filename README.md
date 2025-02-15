@@ -1,4 +1,4 @@
-# My Portfolio 🌟  
+# My Portfolio  
 
 A fully responsive personal portfolio website built using **HTML** and **CSS**. This project showcases my skills, projects, and contact information. Note: JavaScript functionality is not implemented, so dynamic interactions will not work.
 
@@ -8,11 +8,11 @@ A fully responsive personal portfolio website built using **HTML** and **CSS**. 
  - Clean and modern UI  
  - Optimized for different screen sizes  
 
-## 🛠️ Technologies Used  
+##  Technologies Used  
 - HTML5  
 - CSS3 (including Flexbox & Grid)  
 
-## 🚀 Installation  
+##  Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/Gurjit05k/portfolio.git
