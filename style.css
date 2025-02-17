@@ -380,6 +380,24 @@ section{
     margin-top: 40px;
     font-size: 16px;
 }
+#back-to-top {
+    padding: 10px;
+    background: var(--second-bg-color);
+    color: white;
+    border-radius: 100%;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    font-size: 25px;
+    box-shadow: 0 0 25px var(--main-color);
+    transition: 0.4s ease-in-out;
+}
+
+#back-to-top:hover {
+    box-shadow: 0 0 25px var(--main-color),
+                0 0 50px var(--main-color);
+}
+
 
 @media(max-width:800px){
     .header{
@@ -626,5 +644,11 @@ section{
     .footer .copyright{
         margin-top: 10px;
         font-size: 8px;
+    }
+    #back-to-top{
+        font-size: 15px;
+        padding: 10px;
+        bottom: 50px;
+        right: 10px;
     }
 }
