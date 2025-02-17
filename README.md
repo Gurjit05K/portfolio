@@ -1,10 +1,10 @@
 # My Portfolio  
 
-A fully responsive personal portfolio website built using **HTML** and **CSS**. This project showcases my skills, projects, and contact information. Note: JavaScript functionality is not implemented, so dynamic interactions will not work.
+A fully responsive personal portfolio website built using **HTML** and **CSS**. This project showcases my skills, projects, and contact information.
 
 ##  Features  
  - Fully responsive design  
- - Clickable navigation links (without JavaScript functionality)  
+ - Clickable navigation links 
  - Clean and modern UI  
  - Optimized for different screen sizes  
 
